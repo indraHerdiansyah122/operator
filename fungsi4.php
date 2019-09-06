@@ -2,7 +2,7 @@
 function tambah_string ($str) {
 	$str = $str . ", jakrata";
 	return $str;
-}
+} 
 //
 $str = "universitas budi luhur";
 echo "\$str = $str<br>";
