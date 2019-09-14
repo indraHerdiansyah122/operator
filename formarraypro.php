@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 if (isset($_POST['next'])) {
  	
  	$nama = $_POST['nama'];
@@ -11,3 +11,4 @@ if (isset($_POST['next'])) {
  		    " -bilangan genap: " . $kelas[$data]. "<hr>";
  	}
  } 
+ -->
